@@ -1,3 +1,0 @@
-2020/03/08 12:31:34 Micro started
-2020/03/08 12:31:34 monokai-dark is not a plugin
-2020/03/08 12:31:34 json: cannot unmarshal object into Go value of type []config.PluginInfo
