@@ -1,0 +1,205 @@
+
+
+
+v  ["          *@:<C-U>exe "normal! gv"|call search('\%(^\s*".*\n\)\%(^\s*"\)\@!', "bW")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 79
+n  ["          *@:call search('\%(^\s*".*\n\)\%(^\s*"\)\@!', "bW")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 78
+v  []          *@m':<C-U>exe "normal! gv"|call search('^\s*endf\%[unction]\>', "bW")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 71
+n  []          *@m':call search('^\s*endf\%[unction]\>', "bW")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 70
+v  [[          *@m':<C-U>exe "normal! gv"|call search('^\s*fu\%[nction]\>', "bW")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 67
+n  [[          *@m':call search('^\s*fu\%[nction]\>', "bW")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 66
+v  ]"          *@:<C-U>exe "normal! gv"|call search('^\(\s*".*\n\)\@<!\(\s*"\)', "W")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 77
+n  ]"          *@:call search('^\(\s*".*\n\)\@<!\(\s*"\)', "W")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 76
+v  ][          *@m':<C-U>exe "normal! gv"|call search('^\s*endf\%[unction]\>', "W")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 73
+n  ][          *@m':call search('^\s*endf\%[unction]\>', "W")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 72
+v  ]]          *@m':<C-U>exe "normal! gv"|call search('^\s*fu\%[nction]\>', "W")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 69
+n  ]]          *@m':call search('^\s*fu\%[nction]\>', "W")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/ftplugin/vim.vim line 68
+o  %             <Plug>(MatchitOperationForward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 60
+x  %             <Plug>(MatchitVisualForward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 58
+n  %             <Plug>(MatchitNormalForward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 56
+o  [%            <Plug>(MatchitOperationMultiBackward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 75
+x  [%            <Plug>(MatchitVisualMultiBackward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 73
+n  [%            <Plug>(MatchitNormalMultiBackward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 71
+n  \ca           <Plug>NERDCommenterAltDelims
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+x  \cu           <Plug>NERDCommenterUncomment
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \cu           <Plug>NERDCommenterUncomment
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+x  \cb           <Plug>NERDCommenterAlignBoth
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \cb           <Plug>NERDCommenterAlignBoth
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+x  \cl           <Plug>NERDCommenterAlignLeft
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \cl           <Plug>NERDCommenterAlignLeft
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \cA           <Plug>NERDCommenterAppend
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+x  \cy           <Plug>NERDCommenterYank
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \cy           <Plug>NERDCommenterYank
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+x  \cs           <Plug>NERDCommenterSexy
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \cs           <Plug>NERDCommenterSexy
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+x  \ci           <Plug>NERDCommenterInvert
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \ci           <Plug>NERDCommenterInvert
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \c$           <Plug>NERDCommenterToEOL
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+x  \cn           <Plug>NERDCommenterNested
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \cn           <Plug>NERDCommenterNested
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+x  \cm           <Plug>NERDCommenterMinimal
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \cm           <Plug>NERDCommenterMinimal
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+x  \c<Space>     <Plug>NERDCommenterToggle
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \c<Space>     <Plug>NERDCommenterToggle
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+x  \cc           <Plug>NERDCommenterComment
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+n  \cc           <Plug>NERDCommenterComment
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3175
+o  ]%            <Plug>(MatchitOperationMultiForward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 76
+x  ]%            <Plug>(MatchitVisualMultiForward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 74
+n  ]%            <Plug>(MatchitNormalMultiForward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 72
+x  a%            <Plug>(MatchitVisualTextObject)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 80
+v  gx            <Plug>NetrwBrowseXVis
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/plugin/netrwPlugin.vim line 88
+n  gx            <Plug>NetrwBrowseX
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/plugin/netrwPlugin.vim line 82
+o  g%            <Plug>(MatchitOperationBackward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 61
+x  g%            <Plug>(MatchitVisualBackward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 59
+n  g%            <Plug>(MatchitNormalBackward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 57
+v  <Plug>NetrwBrowseXVis * :<C-U>call netrw#BrowseXVis()<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/plugin/netrwPlugin.vim line 90
+n  <Plug>NetrwBrowseX * :call netrw#BrowseX(netrw#GX(),netrw#CheckIfRemote(netrw#GX()))<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/plugin/netrwPlugin.vim line 84
+n  <Plug>NERDCommenterAltDelims * :call <SNR>55_SwitchToAlternativeDelimiters(1)<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3206
+x  <Plug>NERDCommenterUncomment * :call NERDComment("x", "Uncomment")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterUncomment * :call NERDComment("n", "Uncomment")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+x  <Plug>NERDCommenterAlignBoth * :call NERDComment("x", "AlignBoth")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterAlignBoth * :call NERDComment("n", "AlignBoth")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+x  <Plug>NERDCommenterAlignLeft * :call NERDComment("x", "AlignLeft")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterAlignLeft * :call NERDComment("n", "AlignLeft")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterAppend * :call NERDComment("n", "Append")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+x  <Plug>NERDCommenterYank * :call NERDComment("x", "Yank")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterYank * :call NERDComment("n", "Yank")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+x  <Plug>NERDCommenterSexy * :call NERDComment("x", "Sexy")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterSexy * :call NERDComment("n", "Sexy")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+x  <Plug>NERDCommenterInvert * :call NERDComment("x", "Invert")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterInvert * :call NERDComment("n", "Invert")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterToEOL * :call NERDComment("n", "ToEOL")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+x  <Plug>NERDCommenterNested * :call NERDComment("x", "Nested")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterNested * :call NERDComment("n", "Nested")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+x  <Plug>NERDCommenterMinimal * :call NERDComment("x", "Minimal")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterMinimal * :call NERDComment("n", "Minimal")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+x  <Plug>NERDCommenterToggle * :call NERDComment("x", "Toggle")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterToggle * :call NERDComment("n", "Toggle")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+x  <Plug>NERDCommenterComment * :call NERDComment("x", "Comment")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+n  <Plug>NERDCommenterComment * :call NERDComment("n", "Comment")<CR>
+	Last set from ~/.vim/plugged/nerdcommenter/plugin/NERD_commenter.vim line 3173
+x  <Plug>(Limelight) * :Limelight<CR>
+	Last set from ~/.vim/plugged/limelight.vim/plugin/limelight.vim line 27
+n  <Plug>(Limelight) * :set opfunc=limelight#operator<CR>g@
+	Last set from ~/.vim/plugged/limelight.vim/plugin/limelight.vim line 26
+n  <Plug>(EasyAlignOperator) * :set opfunc=<SNR>26_easy_align_op<CR>g@
+	Last set from ~/.vim/plugged/vim-easy-align/plugin/easy_align.vim line 141
+v  <Plug>(EasyAlignRepeat) * :<C-U>call <SNR>26_repeat_in_visual()<CR>
+	Last set from ~/.vim/plugged/vim-easy-align/plugin/easy_align.vim line 138
+n  <Plug>(EasyAlignRepeat) * :call <SNR>26_easy_align_repeat()<CR>
+	Last set from ~/.vim/plugged/vim-easy-align/plugin/easy_align.vim line 137
+v  <Plug>(LiveEasyAlign) * :<C-U>call <SNR>26_live_easy_align_op(visualmode(), 1)<CR>
+	Last set from ~/.vim/plugged/vim-easy-align/plugin/easy_align.vim line 134
+n  <Plug>(LiveEasyAlign) * :set opfunc=<SNR>26_live_easy_align_op<CR>g@
+	Last set from ~/.vim/plugged/vim-easy-align/plugin/easy_align.vim line 133
+v  <Plug>(EasyAlign) * :<C-U>call <SNR>26_easy_align_op(visualmode(), 1)<CR>
+	Last set from ~/.vim/plugged/vim-easy-align/plugin/easy_align.vim line 132
+n  <Plug>(EasyAlign) * :set opfunc=<SNR>26_easy_align_op<CR>g@
+	Last set from ~/.vim/plugged/vim-easy-align/plugin/easy_align.vim line 131
+   <C-N>         :NERDTreeToggle<CR>
+	Last set from ~/.vimrc line 119
+x  <Plug>(MatchitVisualTextObject)   <Plug>(MatchitVisualMultiBackward)o<Plug>(MatchitVisualMultiForward)
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 79
+o  <Plug>(MatchitOperationMultiForward) * :<C-U>call matchit#MultiMatch("W",  "o")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 69
+o  <Plug>(MatchitOperationMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "o")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 68
+x  <Plug>(MatchitVisualMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>m'gv``
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 67
+x  <Plug>(MatchitVisualMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>m'gv``
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 66
+n  <Plug>(MatchitNormalMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 65
+n  <Plug>(MatchitNormalMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 64
+o  <Plug>(MatchitOperationBackward) * :<C-U>call matchit#Match_wrapper('',0,'o')<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 54
+o  <Plug>(MatchitOperationForward) * :<C-U>call matchit#Match_wrapper('',1,'o')<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 53
+x  <Plug>(MatchitVisualBackward) * :<C-U>call matchit#Match_wrapper('',0,'v')<CR>m'gv``
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 52
+x  <Plug>(MatchitVisualForward) * :<C-U>call matchit#Match_wrapper('',1,'v')<CR>m'gv``
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 51
+n  <Plug>(MatchitNormalBackward) * :<C-U>call matchit#Match_wrapper('',0,'n')<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 50
+n  <Plug>(MatchitNormalForward) * :<C-U>call matchit#Match_wrapper('',1,'n')<CR>
+	Last set from /data/data/com.termux/files/usr/share/vim/vim82/pack/dist/opt/matchit/plugin/matchit.vim line 49
+n  <C-L>       * :nohlsearch<C-R>=has('diff')?'|diffupdate':''<CR><CR><C-L>
+	Last set from /data/data/com.termux/files/usr/share/vim/vimrc line 48
+   <ScrollWheelDown>   <C-E>
+	Last set from /data/data/com.termux/files/usr/share/vim/vimrc line 7
+   <ScrollWheelUp>   <C-Y>
+	Last set from /data/data/com.termux/files/usr/share/vim/vimrc line 5
